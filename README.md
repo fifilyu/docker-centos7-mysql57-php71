@@ -10,9 +10,9 @@
 ## 构建镜像
 
 ```bash
-git clone https://github.com/fifilyu/docker-centos7-php71-mysql57.git
-cd docker-centos7-php71-mysql57
-docker buildx build -t fifilyu/centos7-php71-mysql57:latest .
+git clone https://github.com/fifilyu/docker-centos7-mysql57-php71.git
+cd docker-centos7-mysql57-php71
+docker buildx build -t fifilyu/centos7-mysql57-php71:latest .
 ```
 
 ## 内置组件
